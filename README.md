@@ -1,2 +1,20 @@
 # SPOJ
 SPOJ problems.
+
+* [ACPC11B.cpp](www.spoj.com/problems/ACPC11B)
+* [AP2.cpp](www.spoj.com/problems/AP2)
+* [CPTTRN1.cpp](www.spoj.com/problems/CPTTRN1)
+* [CPTTRN2.cpp](www.spoj.com/problems/CPTTRN2)
+* [CPTTRN3.cpp](www.spoj.com/problems/CPTTRN3)
+* [CPTTRN4.cpp](www.spoj.com/problems/CPTTRN4)
+* [CPTTRN5.cpp](www.spoj.com/problems/CPTTRN5)
+* [CPTTRN6.cpp](www.spoj.com/problems/CPTTRN6)
+* [CRDS.cpp](www.spoj.com/problems/CRDS)
+* [PCROSS1.cpp](www.spoj.com/problems/PCROSS1)
+* [PCROSS2.cpp](www.spoj.com/problems/PCROSS2)
+* [PRISMSA.cpp](www.spoj.com/problems/PRISMSA)
+* [SMPDIV.cpp](www.spoj.com/problems/SMPDIV)
+* [SMPSEQ7.cpp](www.spoj.com/problems/SMPSEQ7)
+* [SMPSEQ9.cpp](www.spoj.com/problems/SMPSEQ9)
+* [SMPSUM.cpp](www.spoj.com/problems/SMPSUM)
+* [XOR.cpp](www.spoj.com/problems/XOR)
