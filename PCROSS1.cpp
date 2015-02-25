@@ -8,21 +8,17 @@ int main() {
 	int m,n,ci,cj;
 	cin >> t;
 
-	int sum ;
-
 	while (t--) {
 		cin >> m >> n >> ci >> cj;
-		sum = ci + cj;
+
 		for (int i = 1; i <= m; i++){
 			for (int j = 1; j <= n; j++){
-
-				if (i + j == sum) {
+				if (i == ci || j == cj) {
 					printf("*");
 				}
 				else {
 					printf(".");
 				}
-
 			}
 			cout << endl;
 		}
