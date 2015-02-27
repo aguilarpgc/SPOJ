@@ -22,6 +22,7 @@ SPOJ problems.
 * [EIGHTS](http://www.spoj.com/problems/EIGHTS)
 * [ENIGMATH](http://www.spoj.com/problems/ENIGMATH)
 * [ETF](http://www.spoj.com/problems/ETF)
+* [FACEFRND](http://www.spoj.com/problems/FACEFRND)
 * [FAVDICE](http://www.spoj.com/problems/FAVDICE)
 * [FENCE1](http://www.spoj.com/problems/FENCE1)
 * [HANGOVER](http://www.spoj.com/problems/HANGOVER)
