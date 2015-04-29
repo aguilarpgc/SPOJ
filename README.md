@@ -1,6 +1,7 @@
 # SPOJ
 SPOJ problems.
 
+C++
 * [ACPC11B](http://www.spoj.com/problems/ACPC11B)
 * [AE00](http://www.spoj.com/problems/AE00)
 * [AMR12D](http://www.spoj.com/problems/AMR12D)
@@ -48,3 +49,6 @@ SPOJ problems.
 * [UCBINTA](http://www.spoj.com/problems/UCBINTA)
 * [WILLITST](http://www.spoj.com/problems/WILLITST)
 * [XOR](http://www.spoj.com/problems/XOR)
+
+Python 3
+* [ADDREV](http://www.spoj.com/problems/ADDREV)
