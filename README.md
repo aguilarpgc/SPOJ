@@ -52,3 +52,4 @@ C++
 
 Python 3
 * [ADDREV](http://www.spoj.com/problems/ADDREV)
+* [ONP](http://www.spoj.com/problems/ONP)
