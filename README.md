@@ -52,4 +52,5 @@ C++
 
 Python 3
 * [ADDREV](http://www.spoj.com/problems/ADDREV)
+* [MFLAR10](http://www.spoj.com/problems/MFLAR10)
 * [ONP](http://www.spoj.com/problems/ONP)
