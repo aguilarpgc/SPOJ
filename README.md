@@ -55,3 +55,4 @@ Python 3
 * [MFLAR10](http://www.spoj.com/problems/MFLAR10)
 * [ONP](http://www.spoj.com/problems/ONP)
 * [TOANDFRO](http://www.spoj.com/problems/TOANDFRO)
+* [TSHOW1](http://www.spoj.com/problems/TSHOW1)
