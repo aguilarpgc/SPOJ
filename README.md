@@ -20,6 +20,7 @@ C++
 * [CRDS](http://www.spoj.com/problems/CRDS)
 * [DIEHARD](http://www.spoj.com/problems/DIEHARD)
 * [EBOXES](http://www.spoj.com/problems/EBOXES)
+* [EC_CONB](http://www.spoj.com/problems/EC_CONB)
 * [EIGHTS](http://www.spoj.com/problems/EIGHTS)
 * [ENIGMATH](http://www.spoj.com/problems/ENIGMATH)
 * [ETF](http://www.spoj.com/problems/ETF)
