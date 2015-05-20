@@ -19,6 +19,7 @@ C++
 * [CPTTRN6](http://www.spoj.com/problems/CPTTRN6)
 * [CRDS](http://www.spoj.com/problems/CRDS)
 * [DIEHARD](http://www.spoj.com/problems/DIEHARD)
+* [DOTAA](http://www.spoj.com/problems/DOTAA)
 * [EBOXES](http://www.spoj.com/problems/EBOXES)
 * [EC_CONB](http://www.spoj.com/problems/EC_CONB)
 * [EIGHTS](http://www.spoj.com/problems/EIGHTS)
@@ -52,6 +53,7 @@ C++
 * [XOR](http://www.spoj.com/problems/XOR)
 
 Python 3
+* [ABSYS](http://www.spoj.com/problems/ABSYS)
 * [ADDREV](http://www.spoj.com/problems/ADDREV)
 * [MFLAR10](http://www.spoj.com/problems/MFLAR10)
 * [ONP](http://www.spoj.com/problems/ONP)
