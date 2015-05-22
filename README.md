@@ -55,6 +55,8 @@ C++
 Python 3
 * [ABSYS](http://www.spoj.com/problems/ABSYS)
 * [ADDREV](http://www.spoj.com/problems/ADDREV)
+* [ANARC09A](http://www.spoj.com/problems/ANARC09A)
+* [LASTDIG2](http://www.spoj.com/problems/LASTDIG2)
 * [MFLAR10](http://www.spoj.com/problems/MFLAR10)
 * [ONP](http://www.spoj.com/problems/ONP)
 * [TOANDFRO](http://www.spoj.com/problems/TOANDFRO)
