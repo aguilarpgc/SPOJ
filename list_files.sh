@@ -2,17 +2,22 @@ README="README.md"
 URL="http://www.spoj.com/problems/"
 
 echo "# SPOJ
-SPOJ problems.
+Having fun.\nSPOJ problems.
 " > $README
 
-echo "C++" >> $README
+echo "\nC" >> $README
+for f in *.c
+do
+	echo "* [${f%.*}]($URL${f%.*})" >> $README
+done
+
+echo "\nC++" >> $README
 for f in *.cpp
 do
 	echo "* [${f%.*}]($URL${f%.*})" >> $README
 done
 
-echo "
-Python 3" >> $README
+echo "\nPython 3" >> $README
 for f in *.py
 do
 	echo "* [${f%.*}]($URL${f%.*})" >> $README

@@ -1,5 +1,10 @@
 # SPOJ
+Having fun.
 SPOJ problems.
+
+
+C
+* [*](http://www.spoj.com/problems/*)
 
 C++
 * [ACPC11B](http://www.spoj.com/problems/ACPC11B)
