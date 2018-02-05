@@ -1,6 +1,5 @@
 # SPOJ
-Having fun.
-SPOJ problems.
+Having fun. [SPOJ](http://www.spoj.com/) problems.
 
 
 C
