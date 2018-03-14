@@ -1,5 +1,6 @@
 # SPOJ
-Having fun. [SPOJ](http://www.spoj.com/) problems.
+Having fun.
+SPOJ problems.
 
 
 C
@@ -33,6 +34,7 @@ C++
 * [FAVDICE](http://www.spoj.com/problems/FAVDICE)
 * [FENCE1](http://www.spoj.com/problems/FENCE1)
 * [HANGOVER](http://www.spoj.com/problems/HANGOVER)
+* [LASTDIG](http://www.spoj.com/problems/LASTDIG)
 * [MAJOR](http://www.spoj.com/problems/MAJOR)
 * [MYQ1](http://www.spoj.com/problems/MYQ1)
 * [NSTEPS](http://www.spoj.com/problems/NSTEPS)
